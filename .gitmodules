@@ -1,3 +1,7 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Perebati/hidroponia-iot-backend
+
+[submodule "mobile-app"]
+	path = mobile-app
+	url = https://github.com/MarceloRobert/aws_mq_app

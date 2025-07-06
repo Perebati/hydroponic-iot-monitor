@@ -297,25 +297,6 @@ Este projeto demonstra a aplicação efetiva de tecnologias modernas de IoT e si
 - **Monitoramento Contínuo**: Garantia de condições ideais de cultivo
 - **Escalabilidade Comercial**: Base sólida para expansão industrial
 
-### Perspectivas Futuras
-O sistema estabelece uma fundação robusta para futuras expansões, incluindo:
-- Integração com sistemas de machine learning para predição de crescimento
-- Implementação de algoritmos de otimização energética
-- Expansão para outros tipos de cultivos automatizados
-- Integração com plataformas de IoT em nuvem
-
----
-
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENCE) - veja o arquivo de licença para detalhes.
-
-## Contribuições
-
-Contribuições são bem-vindas! Por favor, leia nossas diretrizes de contribuição antes de submeter pull requests.
-
-## Contato
-
-Para dúvidas técnicas ou colaborações, entre em contato através dos repositórios dos submodules:
-- **Backend**: [hidroponia-iot-backend](https://github.com/Perebati/hidroponia-iot-backend)
-- **Mobile App**: [aws_mq_app](https://github.com/MarceloRobert/aws_mq_app)
